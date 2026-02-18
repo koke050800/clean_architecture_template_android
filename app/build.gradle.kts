@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.clean_architecture_android_template"
+    namespace = "com.koke050800.clean_architecture_android_template"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.clean_architecture_android_template"
+        applicationId = "com.koke050800.clean_architecture_android_template"
         minSdk = 30
         targetSdk = 36
         versionCode = 1

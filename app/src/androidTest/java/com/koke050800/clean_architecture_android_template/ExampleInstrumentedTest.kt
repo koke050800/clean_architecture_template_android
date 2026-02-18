@@ -1,4 +1,4 @@
-package com.example.clean_architecture_android_template
+package com.koke050800.clean_architecture_android_template
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.clean_architecture_android_template", appContext.packageName)
+        assertEquals("com.koke050800.clean_architecture_android_template", appContext.packageName)
     }
 }

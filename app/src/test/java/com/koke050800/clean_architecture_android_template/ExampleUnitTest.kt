@@ -1,4 +1,4 @@
-package com.example.clean_architecture_android_template
+package com.koke050800.clean_architecture_android_template
 
 import org.junit.Test
 
